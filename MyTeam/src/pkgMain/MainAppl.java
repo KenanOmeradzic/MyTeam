@@ -9,5 +9,5 @@ public class MainAppl {
 		System.out.println("== " + player);
 		player = new Player(4, "Hinteregger", "Defense");
 		System.out.println("== " + player);
-
+	}
 }
